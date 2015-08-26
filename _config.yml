@@ -1,8 +1,8 @@
 # Site settings
-title:       raju vindane
+title:       Raju Vindane
 email:       rajudv@openmailbox.org
 author:      Raju Devidas Vindane
-description: "Things that I think that the world should know about"
+description: "Things that I think that the world should know"
 baseurl:     ""
 url:         "http://rajuvindane.github.io"
 
@@ -20,7 +20,7 @@ show_social_icons:  true
 disqus_shortname:
 
 # Social icons
-github_username: rajuvindane 
+github_username: rajuvindane
 stackoverflow_id: raju
 twitter_username: rajuvindane
 google_plus_id: rajuvindane
